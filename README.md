@@ -1,5 +1,5 @@
 # ISLab Member Study Repository
-- Member : 이익전, 류재주, 김승찬, 감임선
+- Member : 이익전, 류재주, 김승찬, 강임선
 
 ----------
 
