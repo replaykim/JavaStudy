@@ -8,7 +8,8 @@ public class Calculator {
 		int c;
 		int a = 0;
 		int b = 0;
-		System.out.println("�Է� ��");
+		//한글 깨지는거 보니 encoding안대있는듯 설정하세여
+		System.out.println("ÀÔ·Â ¤¡");
 		Scanner scanner = new Scanner(System.in);
 		c= scanner.nextInt();
 		a = scanner.nextInt();
