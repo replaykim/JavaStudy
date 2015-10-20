@@ -1,5 +1,6 @@
 # ISLab Member Study Repository
 - Member : 이익전, 류재주, 김승찬, 강임선
+- 각자 폴더만들고 그안에 chapter1, chapter2, ... 만들면서 소스코드만 올릴것!
 
 ----------
 
