@@ -7,7 +7,7 @@ public class Main {
     private int firstNum, secondNum;
     private int sum, sub, multiple, etc;
     private float divide;
-
+    private Scanner scan;
 
     public static void main(String[] args) {
         Main main = new Main();
@@ -17,7 +17,8 @@ public class Main {
     public void control(){
 
         System.out.println("사친연산 계산기! 두 수를 입력하세요.");
-        Scanner scan = new Scanner(System.in);
+
+        scan = new Scanner(System.in);
         firstNum = scan.nextInt();
         secondNum = scan.nextInt();
 
