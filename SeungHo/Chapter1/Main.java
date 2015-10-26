@@ -17,6 +17,7 @@ public class Main {
     public void control(){
 
         System.out.println("사친연산 계산기! 두 수를 입력하세요.");
+        //Scanner 도 다른 변수와같이 전역변수로 선언하는게 어떠할까함 ㅋㅋ
         Scanner scan = new Scanner(System.in);
         firstNum = scan.nextInt();
         secondNum = scan.nextInt();
