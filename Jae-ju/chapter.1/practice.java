@@ -14,6 +14,8 @@ public class practice {
         System.out.println("두수의합="+(a+b));
         System.out.println("두수의뺄셈="+(a-b));
         System.out.println("두수의곱="+(a*b));
+        // 이렇게 하게되면 나누셈결과값이 소수점 밑으로는 안나올텐데???
+        // 나누셈을 했을때 소수점까지 나오게 수정해봐
         System.out.println("두수의나눗셈="+(a/b));
         System.out.println("두수를 나눈후 나머지="+(a%b));
 

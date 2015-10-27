@@ -1,1 +1,2 @@
-# 내 폴더
+## HyunArmSong folder
+###### e-mail : ruminatioin.ha@gmail.com
